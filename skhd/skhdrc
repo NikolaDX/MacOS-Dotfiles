@@ -1,0 +1,3 @@
+ctrl - e : open -a Finder
+ctrl - t : open -a "Ghostty"
+ctrl - b : open -a "Zen"
