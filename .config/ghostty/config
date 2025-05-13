@@ -1,0 +1,5 @@
+theme = GruvboxDark
+font-family = "Fantasque Sans Mono"
+font-size = 18
+background-blur = true
+background-opacity = 0.8

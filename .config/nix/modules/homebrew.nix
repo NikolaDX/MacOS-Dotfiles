@@ -10,6 +10,9 @@
       "zen"
       "iina"
       "the-unarchiver"
+      "remnote"
+      "tailscale"
+      "logi-options+"
     ];
     masApps = {
       "Xcode" = 497799835;
