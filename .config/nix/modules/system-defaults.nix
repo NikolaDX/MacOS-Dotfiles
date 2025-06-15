@@ -11,6 +11,7 @@
     dock.largesize = 64;
     dock.mineffect = "scale";
     dock.magnification = true;
+    dock.autohide = true;
     trackpad.Clicking = true;
     finder.ShowPathbar = true;
     finder.ShowStatusBar = true;
